@@ -1,0 +1,22 @@
+{
+  "name": "a-vr-game",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaperclipBadger/a-vr-game.git"
+  },
+  "author": "Blaine Rogers",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/PaperclipBadger/a-vr-game/issues"
+  },
+  "homepage": "https://github.com/PaperclipBadger/a-vr-game#readme",
+  "dependencies": {
+    "aframe": "^1.0.4"
+  }
+}

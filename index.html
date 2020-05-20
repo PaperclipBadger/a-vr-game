@@ -6,6 +6,10 @@
   <body>
     <a-scene background="color:white">
         <a-box position="-1 0.5 -3" color="cyan"></a-box>
+        <a-entity id="camera-rig" position="0 0 0">
+            <a-entity oculus-touch-controls="hand: left"></a-entity>
+            <a-entity oculus-touch-controls="hand: right"></a-entity>
+        </a-entity>
     </a-scene>
   </body>
 </html>

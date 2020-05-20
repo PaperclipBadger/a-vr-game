@@ -7,4 +7,4 @@ npm install
 npx webpack
 ```
 
-Then open [dist/index.html]().
+Then open [dist/index.html](dist/index.html).
